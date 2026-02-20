@@ -4,14 +4,15 @@ The **Student Grade Predictor** is a next-generation, interactive Streamlit appl
 
 Designed for educators, students, and analysts, this tool provides actionable insights into how factors like sleep, study consistency, and ethical AI integration influence academic performance.
 
-👉 **[Click here for Live Demo](https://student-grade-predictor-salik.streamlit.app/)**
+👉 **[Click here for Live Demo]([https://student-grade-predictor-salik.streamlit.app/](https://student-performance-salik.streamlit.app/))**
 
 ---
 
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/PLACEHOLDER_A0F8D601_B6BF_4A28_B166_C3975D39F30F" width="100%" alt="Student Grade Predictor Dashboard" />
+  <img width="872" height="361" alt="image" src="https://github.com/user-attachments/assets/6799a35d-be75-40f5-a374-cde45164f80a" />
+
 </div>
 
 > *A stunning, glassmorphism-inspired dark UI that makes data analysis a visual delight.*
