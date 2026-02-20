@@ -22,7 +22,7 @@ Designed for educators, students, and analysts, this tool provides actionable in
 ## 🚀 Key Features
 
 ### 🔮 **Precision Grade Forecasting**
-- Leverages a **Random Forest Regressor** to predict final scores with high accuracy.
+- Leverages a **Random Forest Regressor🌳** to predict final scores with high accuracy.
 - Analyzes complex non-linear relationships between 20+ variables.
 
 ### 🤖 **AI Usage Analytics (Unique!)**
@@ -95,7 +95,7 @@ streamlit run app.py
 
 ## 📈 Model Performance
 
-- **Algorithm:** Random Forest Regressor
+- **Algorithm:** Random Forest Regressor🌳
 - **Random Forest Regressor Performance:**
   - **Mean Absolute Error:** `4.1064`
   - **Mean Squared Error:** `26.7775`
