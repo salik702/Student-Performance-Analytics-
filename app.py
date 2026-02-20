@@ -4,6 +4,11 @@ import numpy as np
 import pickle
 import os
 import textwrap
+try:
+    import sklearn
+except ImportError:
+    st.error("scikit-learn is not installed. Please add 'scikit-learn' to requirements.txt")
+
 
 # Set page configuration for a premium look
 st.set_page_config(
