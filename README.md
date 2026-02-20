@@ -94,9 +94,11 @@ streamlit run app.py
 
 ## 📈 Model Performance
 
-- **Algorithm:** Random Forest Regressor (Optimized)
-- **Evaluation Metric:** R² Score (Coefficient of Determination)
-- **Performance:** **~96% Accuracy** on unseen test data.
+- **Algorithm:** Random Forest Regressor
+- **Random Forest Regressor Performance:**
+  - **Mean Absolute Error:** `4.1064`
+  - **Mean Squared Error:** `26.7775`
+  - **R² Score:** `0.8560`
 - **Key Predictors:** Past Grades, Study Consistency, AI Ethics Score.
 
 ---
@@ -125,7 +127,7 @@ We welcome contributions! Whether it's adding new features, improving the UI, or
 
 ## 📝 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available for free.
 
 ---
 
@@ -133,7 +135,6 @@ This project is open-source and available under the **MIT License**.
   <p>Made with ❤️ and ☕ by <b>Salik Ahmad</b></p>
   <p>
     <a href="https://salikahmad.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp; 
-    <a href="https://www.linkedin.com/in/salik-ahmad-6b0142273/">🔗 LinkedIn</a> &nbsp;|&nbsp; 
-    <a href="mailto:salikahmad@example.com">📧 Contact</a>
+    <a href="https://www.linkedin.com/in/salik-ahmad-6b0142273/">🔗 LinkedIn</a>
   </p>
 </div>
